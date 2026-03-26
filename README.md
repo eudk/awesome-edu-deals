@@ -211,6 +211,7 @@ Platforms that usually cost money but have free periods for students.
 - **SAP Learning Hub:** Student edition for free.
 - **Intel Developer Zone:** Free tools and resources.
 - **Nvidia:** Deep Learning Institute credits/courses.
+- **FindExams:** Certification practice platform offering free demo exams and student-friendly pricing for PMP, PMI-ACP, PMI-PBA, IIBA-AAC & ITIL 4. https://findexams.com
 
 [↑ Go to top](#table-of-contents)
 
@@ -273,3 +274,4 @@ If you don't see what you need above, you can check these general discount sites
 - **Google Developer Student Clubs:** Join your local chapter for perks.
 
 [↑ Go to top](#table-of-contents)
+
